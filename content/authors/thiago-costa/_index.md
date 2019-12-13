@@ -1,19 +1,11 @@
 ---
-title: Thiago Costa
-bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
-avatar: /images/thiago-costa.jpg
+title: Galvin Gao
+bio: A {{ new Date().getFullYear() - 2002 }} years old coding enthusiast, a humorous
+  human being, and an IB student.
+avatar: "/images/512x512.png"
 featured: false
 social:
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
+- title: github
+  url: https://github.com/GalvinGao/blog
+
 ---
